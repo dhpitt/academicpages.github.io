@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Chaos-based Encryption"
+excerpt: "A fast, minimal encryption scheme that uses chaotic systems to encrypt data. <br/><img src='/images/bifurcation_diagram_2.png'>"
 collection: portfolio
 ---
 
