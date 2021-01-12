@@ -1,9 +1,10 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "Experience"
+permalink: /experience/
 author_profile: true
 redirect_from:
+  - /cv
   - /resume
 ---
 
@@ -56,4 +57,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* 5C Hackathon, Vice President and Sponsorship Coordinator
