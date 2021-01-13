@@ -1,6 +1,6 @@
 ---
 title: "N-Body Orbit Simulator"
-excerpt: "A framework for solving the n-body problem through high-order numerical approximation. <br/><img src='/images/500x300.png'>"
+excerpt: "A framework for solving the n-body problem through high-order numerical approximation. <br/>
 collection: portfolio
 ---
 
