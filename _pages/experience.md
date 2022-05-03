@@ -12,30 +12,36 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Mathematics and Computer Science from Harvey Mudd College (in progress, expected May 2023)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2020: Junior R&D Associate
+  * Nanotronics Imaging, Inc.
+  * Duties included: research and development of a CNN autoencoder for image preprocessing
+  * Supervisor: Dr. Francis Ortega
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Grading and Tutoring
+======
+* Fall 2020: CS5 Black grutor
+  * Harvey Mudd College
+  * Advanced introductory CS
+  * Held weekly office hours and graded homeworks
+
+* Spring 2022: Math 157 head grader
+  * Harvey Mudd College
+  * Intermediate probability
+  * Graded all problem sets and quizzes
+
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python
+  * NumPy, SciPy, Pandas, scikit-learn, OpenCV, PyTorch, Keras, Tensorflow, Torch-Geometric, DGL, NetworkX
+* C++
+* Java
+* Math
+  * Statistics, linear algebra, PDEs, optimization
 
 Publications
 ======
