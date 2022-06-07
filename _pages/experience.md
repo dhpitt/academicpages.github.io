@@ -8,6 +8,8 @@ redirect_from:
   - /resume
 ---
 
+<embed src="https://github.com/dhpitt/resume/blob/main/pitt_resume_622.pdf" type=application/pdf>
+
 {% include base_path %}
 
 Education
